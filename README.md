@@ -5,8 +5,8 @@ This app can be used to account for all the vehicles in the garage with user fri
 <br>
 <br>
 # Below are the screenshots of the different pages of the app.
-![Screenshot_20250408_191949](https://github.com/user-attachments/assets/ed33c526-3f0a-4dbd-ac0f-c5e80b0f72b6)
-
+![Screenshot_20250408_191949](https://github.com/user-attachments/assets/a76eed2b-830c-4c5a-847b-17ea4ae06308)
+<br>
 
 ![Screenshot_20250408_192135](https://github.com/user-attachments/assets/cbda5a60-52d5-458f-bee2-8591382187c1)
 <br>
